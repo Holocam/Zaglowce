@@ -3917,3 +3917,17 @@ input, select, textarea {
 	min-width: 75vw;
 	padding: 20px;
 	margin: 0px;
+	
+#img1 {
+	height= 800px;
+	width= 800px;
+}
+#img2 {
+	height= 800px;
+	width= 800px;
+}	
+#img3 {
+	height= 800px;
+	width= 800px;
+}	
+	
