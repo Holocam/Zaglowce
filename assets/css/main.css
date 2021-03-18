@@ -3908,29 +3908,7 @@ input, select, textarea {
 	margin-right: 18em;
 	color: rgba(255, 255, 255, 0.35);
 	min-height: 70vh;
-	min-width: 100vw;
+	min-width: 80vw;
 	padding: 20px;
 	margin: 30px;
-}
-
-#img2 {
-	display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 40%;
-  height: 40%;
-}
-#img1 {
-	display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 40%;
-  height: 40%;
-}
-#img3 {
-	display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 40%;
-  height: 40%;
 }
