@@ -167,13 +167,13 @@
 						<section>
 							<div class="wrapper style2 spotlights" id="four">
 								<div class="gg-container">
-									<div class="gg-box">
-										<img src="images/pic01.jpg" id="img1" />
-										<img src="images/pic02.jpg" id="img2" />
-										<img src="images/pic03.jpg" id="img3" />
-										<img src="images/pic04.jpg" id="img4" />
-										<img src="images/pic05.jpg" id="img5" />
-										<img src="images/pic06.jpg" id="img6" />
+									<div class="gg-box" id="horizontal-dark">
+										<img src="images/pic01.jpg" />
+										<img src="images/pic02.jpg" />
+										<img src="images/pic03.jpg" />
+										<img src="images/pic04.jpg" />
+										<img src="images/pic05.jpg" />
+										<img src="images/pic06.jpg" />
 									</div>
 								</div>
 							</div>
@@ -216,6 +216,13 @@
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 			<script src="assets/js/grid-gallery.min.js"></script>
+			<script>gridGallery({
+					selector: "#horizontal-dark",
+					darkMode: true,
+					layout: "square",
+					gapLength: 10,
+					});
+					</script>
 
 	</body>
 </html>
