@@ -3913,48 +3913,13 @@ input, select, textarea {
 	margin: 0px;
 }
 
-#img1 {
-  	margin-left: auto;
-  	margin-right: auto;
-  	width: 40vh;
-  	height: 40vh;
-}
-#img2 {
-	display: block;
-  	margin-left: auto;
-  	margin-right: auto;
-  	width: 40vh;
-  	height: 40vh;
-}
-#img3 {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	width: 40vh;
-	height: 40vh;
-	
-#img4 {
-	display: block;
-  	margin-left: auto;
-  	margin-right: auto;
-  	width: 40vh;
-  	height: 40vh;
-}
-#img5 {
-	display: block;
-  	margin-left: auto;
-  	margin-right: auto;
-  	width: 40vh;
-  	height: 40vh;
-}
-#img6 {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	width: 40vh;
-	height: 40vh;
-}
 .photo {
 	width: 40%;
 	height: 40%;
+}
+
+.obraz {
+	margin-left: auto;
+	margin-right:auto;
+	width: auto !important;
 }
