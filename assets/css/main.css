@@ -3917,22 +3917,43 @@ input, select, textarea {
 	display: block;
   	margin-left: auto;
   	margin-right: auto;
-  	width: 100%;
-  	height: 100%;
+  	width: 50%;
+  	height: 50%;
 }
 #img2 {
 	display: block;
   	margin-left: auto;
   	margin-right: auto;
-  	width: 100%;
-  	height: 100%;
+  	width: 50%;
+  	height: 50%;
 }
 #img3 {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 100%;
-	height: 100%;
+	width: 50%;
+	height: 50%;
+	
+#img4 {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+  	height: 50%;
+}
+#img5 {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+  	height: 50%;
+}
+#img6 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	height: 50%;
 }
 .photo {
 	width: 100%;
